@@ -4,7 +4,9 @@ The goal of these guidelines is to provide project standards for the development
 
 ### Definition
 `Use case ”implies“ the ways in which a user uses a system` (A.Cockburn).
+
 `A use case is the specification of a set of actions performed by a system, which yields an observable result that is, typically, of value to one or more actors or other stakeholders of the system` (UML 2.0).
+
 A use case is a collection of possible sequences of interactions between the system under discussion and its external actors, related to a particular goal.
 
 ### Benefits
