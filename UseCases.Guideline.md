@@ -9,11 +9,12 @@ A use case is a collection of possible sequences of interactions between the sys
 
 ### Benefits
 “Use Cases” helps to provide:
-•	the basis for an estimation of the complexity of the proposed system
-•	units of end user functionality by which the project will be planned
-•	a vehicle for a designated stakeholder to articulate and agree the functional specification
-•	the basis of a functional specification from which the system will be developed
-•	the basis for a system acceptance test
+
+- the basis for an estimation of the complexity of the proposed system
+- units of end user functionality by which the project will be planned
+- a vehicle for a designated stakeholder to articulate and agree the functional specification
+- the basis of a functional specification from which the system will be developed
+- the basis for a system acceptance test
 
 ### Place of “Use Cases” in Solution Delivery Lifecycle
 An input represents the information necessary for a task to begin. Inputs should not be optional (at least not as the basic definition)—if something is merely helpful we do not define it as an input. 
